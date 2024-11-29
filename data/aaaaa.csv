@@ -1,0 +1,3 @@
+数据源名称,前置库英文名称,中台表中文名称、中台数据流名称,中台英文名称,分区,table_schema,dbName,dbType,target_db_name,target_db_type,target_table_schema
+人大财经联网监督系统,npcs_ods_fac,人大财经联网监督系统_npcs_ods_fac2222,to_m_npcs_ods_fac,yyyymm,public,CJLWJD,postgresql,to_m_npcs_ods_fac,doris,ods
+机关党建管理系统,choice_answer,机关党建管理系统_choice_answer333,to_m_choice_answe,yyyymm,question_survey,JGDJGL,postgresql,to_m_choice_answer,doris,ods
