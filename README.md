@@ -1,2 +1,2 @@
 # ChatRagAgent
-RAG chat,Agent char
+RAG chat,Agent chat
