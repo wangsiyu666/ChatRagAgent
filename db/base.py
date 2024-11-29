@@ -2,10 +2,10 @@ from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.ext.declarative import declarative_base, DeclarativeMeta
 from sqlalchemy.orm import sessionmaker
 
-username = 'root'
-hostname = '192.168.102.17'
-database_name = 'northinfo'
-password = "123456"
+username = ''
+hostname = ''
+database_name = ''
+password = ""
 
 SQLALCHEMY_DATABASE_URI = f"mysql+asyncmy://{username}:{password}@{hostname}/{database_name}?charset=utf8mb4"
 
